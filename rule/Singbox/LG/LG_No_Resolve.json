@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "dacom.co.kr",
         "kidc.net",
         "lg.com",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.226.96.0/22",
         "106.103.189.0/24",
         "106.103.191.0/24",

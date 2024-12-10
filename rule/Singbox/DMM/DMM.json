@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "akabeesoft2.com",
         "akabeesoft3.com",
         "akatsukiworks.com",
@@ -25,8 +24,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "125.6.189.7/32",
         "203.104.209.7/32"
       ]

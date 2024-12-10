@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "csgo.wmsj.cn",
         "dl.steam.clngaa.com",
@@ -19,8 +18,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "cm.steampowered.com",
         "steamchina.com",
         "steamcontent.com",

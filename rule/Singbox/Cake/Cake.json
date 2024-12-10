@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "d1koerlbtsmkf8.cloudfront.net",
         "d31wl6mro6753i.cloudfront.net",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "cake.day",
         "cakeapp.me",
         "mycake.me"

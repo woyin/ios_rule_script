@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "d1q6f0aelx0por.cloudfront.net",
         "d2wy8f7a9ursnm.cloudfront.net",
@@ -10,8 +9,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "compose-spec.io",
         "docker.com",
         "docker.io",

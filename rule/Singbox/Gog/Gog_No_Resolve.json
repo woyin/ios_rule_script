@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "gog.salesmanago.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "gog-statics.com",
         "gog.com",
         "gog.qtlglb.com"

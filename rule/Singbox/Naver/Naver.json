@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "d17lx9ucc6k9fc.cloudfront.net",
         "d3c7rimkq79yfu.cloudfront.net"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "chocotv.com.tw",
         "grafolio.com",
         "lin.ee",
@@ -38,8 +36,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "101.101.160.0/20",
         "103.2.28.0/24",
         "103.2.30.0/23",

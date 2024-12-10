@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "live-mediashield-ava-hulustream-com.akamaized.net"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "112263.com",
         "assetshuluimcom-a.akamaihd.net",
         "callhulu.com",

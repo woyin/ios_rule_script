@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "netease.ugcvideoss.ourdvs.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "126.am",
         "126.com",
         "126.fm",
@@ -127,8 +125,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "101.71.154.241/32",
         "103.126.92.132/31",
         "112.13.119.17/32",

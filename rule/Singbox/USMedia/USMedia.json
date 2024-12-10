@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "espn.api.edge.bamgrid.com",
         "espn.hb.omtrdc.net",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "112263.com",
         "amlg.io",
         "assetshuluimcom-a.akamaihd.net",

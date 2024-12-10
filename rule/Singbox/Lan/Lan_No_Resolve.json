@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "asusrouter.com",
         "instant.arubanetworks.com",
@@ -13,8 +12,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa",
         "0.in-addr.arpa",
         "1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa",
@@ -135,8 +133,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "0.0.0.0/8",
         "10.0.0.0/8",
         "100.64.0.0/10",

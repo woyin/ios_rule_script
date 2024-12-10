@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "zhihu.com",
         "zhimg.com"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.41.167.226/32",
         "103.41.167.234/31",
         "103.41.167.236/32",

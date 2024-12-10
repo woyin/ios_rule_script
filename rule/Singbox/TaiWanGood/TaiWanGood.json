@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "hamifans.emome.net"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "skyking.com.tw"
       ]
     }

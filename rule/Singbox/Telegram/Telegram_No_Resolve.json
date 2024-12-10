@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "api.imem.app",
         "api.swiftgram.app"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "cdn-telegram.org",
         "comments.app",
         "contest.com",
@@ -36,14 +34,12 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "nicegram"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "109.239.140.0/24",
         "149.154.160.0/20",
         "2001:67c:4e8::/48",

@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "brawlstars.com",
         "brawlstarsgame.com"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "13.210.25.233/32",
         "13.212.170.102/32",
         "13.212.171.212/32",

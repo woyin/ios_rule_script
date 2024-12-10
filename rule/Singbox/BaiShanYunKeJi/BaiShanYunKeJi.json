@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "5gcdnx.com",
         "baicdnx.com",
         "bainsx.cn",

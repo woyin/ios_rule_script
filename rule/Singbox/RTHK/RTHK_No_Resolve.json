@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "rthklive2-lh.akamaihd.net",
         "rthkradio1-live.akamaized.net",
@@ -18,8 +17,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "rthk.hk",
         "rthk.org.hk"
       ]

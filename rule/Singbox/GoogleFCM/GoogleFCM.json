@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "alt1-mtalk.google.com",
         "alt2-mtalk.google.com",
@@ -16,8 +15,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "108.177.125.188/32",
         "142.250.10.188/32",
         "142.250.31.188/32",

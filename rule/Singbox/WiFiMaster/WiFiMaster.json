@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "51huitu.cn",
         "51lstt.com",
         "51newsapp.com",

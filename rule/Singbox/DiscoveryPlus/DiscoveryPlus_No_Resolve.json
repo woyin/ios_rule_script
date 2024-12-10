@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "discovery-us.conax.cloud",
         "dplus-northamerica-cloudfront-gcs.prod-vod.h264.io",
@@ -10,8 +9,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "disco-api.com",
         "discovery.com",
         "discoveryplus.co.uk",
@@ -26,8 +24,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "discovery.uplynk.com"
       ]
     }

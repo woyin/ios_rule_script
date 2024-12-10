@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "1b9khekel6.adobe.io",
         "3dns-1.adobe.com",
@@ -95,8 +94,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "100.24.211.130/32",
         "13.227.103.57/32",
         "162.247.242.20/32",

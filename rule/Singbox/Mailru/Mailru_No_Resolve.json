@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "imgsmail.ru",
         "mail.ru",
         "mycdn.me"

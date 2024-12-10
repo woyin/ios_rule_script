@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "img-prod-cms-rt-microsoft-com.akamaized.net",
         "login.live.com",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "beth.games",
         "bethesda.net",
         "bethesdagamestudios.com",

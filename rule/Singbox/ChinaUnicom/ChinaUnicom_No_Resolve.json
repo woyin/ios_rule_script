@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "10010.cn",
         "10010.com",
         "10010.com.cn",
@@ -40,8 +39,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "113.200.56.63/32"
       ]
     }

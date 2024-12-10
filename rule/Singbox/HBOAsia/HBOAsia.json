@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com",
         "bcbolthboa-a.akamaihd.net",
@@ -23,15 +22,13 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "hbogoasia.com",
         "hbogoasia.hk"
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         ".hbogoasia."
       ]
     }

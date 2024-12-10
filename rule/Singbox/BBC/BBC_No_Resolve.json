@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "aod-dash-uk-live.akamaized.net",
         "aod-hls-uk-live.akamaized.net",
@@ -18,8 +17,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "bbc",
         "bbc.co",
         "bbc.co.uk",
@@ -38,8 +36,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "bbcfmt",
         "uk-live"
       ]

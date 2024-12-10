@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "cobeuz.fr",
         "cobuz.fr",
         "cobuzz.fr",
@@ -38,8 +37,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "52.211.1.180/32",
         "99.81.97.56/32"
       ]

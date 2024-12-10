@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "bbtv.cn",
         "bestv.com.cn",
         "bestvcdn.cn",

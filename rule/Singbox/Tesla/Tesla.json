@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "solarcity.com",
         "tesla-cdn.thron.cn",
         "tesla-cdn.thron.com",

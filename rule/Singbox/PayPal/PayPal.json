@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "account-paypal.info",
         "account-paypal.net",
         "account-paypal.org",
@@ -253,8 +252,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "paypal"
       ]
     }

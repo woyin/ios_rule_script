@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "1dot1dot1dot1.cloudflare-dns.com",
         "8888.google",
@@ -95,8 +94,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "1.1.1.1/32",
         "101.101.101.101/32",
         "114.114.114.114/32",

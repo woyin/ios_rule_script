@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "wmff.warnermediacdn.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "hboasia.com",
         "hboasia1-i.akamaihd.net",
         "hboasia2-i.akamaihd.net",

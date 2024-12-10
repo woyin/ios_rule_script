@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "cf-ipfs.com",
         "cf-ns.com",
         "cf-ns.net",
@@ -50,8 +49,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.21.244.0/22",
         "103.22.200.0/22",
         "103.31.4.0/22",

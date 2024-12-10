@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "atom.io",
         "dependabot.com",
         "ghcr.io",
@@ -36,8 +35,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "github"
       ]
     }

@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "a2z.com",
         "aboutamazon.cn",
         "aboutamazon.co.uk",
@@ -193,14 +192,12 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "avoddashs"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "13.32.0.0/15",
         "13.35.0.0/17",
         "18.184.0.0/15",

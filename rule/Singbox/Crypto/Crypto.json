@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "token-api.metaswap.codefi.network"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "1inch.io",
         "1ml.com",
         "aave.com",
@@ -208,8 +206,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "binance",
         "huobi",
         "metamask",

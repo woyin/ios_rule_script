@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "4008-517-517.cn",
         "aboutmcdonalds.com",
         "happymeal.co.nz",

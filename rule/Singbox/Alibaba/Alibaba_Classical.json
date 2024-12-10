@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "10029.com",
         "1688.com",
         "17lai.org",
@@ -1258,8 +1257,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.206.40.0/22",
         "103.38.56.0/22",
         "103.52.196.0/22",

@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "assets1.xboxlive.com",
         "assets2.xboxlive.com",
@@ -43,8 +42,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "cdn.ubi.com",
         "dyn.riotcdn.net",
         "steamcontent.com"

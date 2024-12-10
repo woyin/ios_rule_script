@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "adobeereg.com",
         "angle.com.tw",
@@ -91,8 +90,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "000webhost.com",
         "01.org",
         "02weqj32.com",
@@ -30749,8 +30747,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "1drv",
         "1e100",
         "abema",
@@ -30790,8 +30787,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "1.201.0.0/24",
         "101.32.118.0/23",
         "101.32.96.0/20",

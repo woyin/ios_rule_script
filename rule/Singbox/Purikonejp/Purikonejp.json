@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "api-priconne-redive.cygames.jp",
         "omotenashi.cygames.jp",
         "prd-priconne-redive.akamaized.net"

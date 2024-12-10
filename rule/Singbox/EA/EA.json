@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "eaasserts-a.akamaihd.net",
         "originasserts.akamaized.net"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "anthemgame.com",
         "anthemthegame.com",
         "apexlegends.com",

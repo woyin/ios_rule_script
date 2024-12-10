@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "browser-intake-datadoghq.com",
         "chat.openai.com.cdn.cloudflare.net",
@@ -15,8 +14,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "ai.com",
         "algolia.net",
         "api.statsig.com",
@@ -44,14 +42,12 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "openai"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "24.199.123.28/32",
         "64.23.132.171/32"
       ]

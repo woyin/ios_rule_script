@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "appleid.apple.com",
         "appleid.cdn-apple.com",

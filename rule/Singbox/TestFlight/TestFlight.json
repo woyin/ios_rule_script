@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "beta.apple.com",
         "testflight.apple.com"
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "testflight"
       ]
     }

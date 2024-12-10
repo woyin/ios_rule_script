@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "5471782.fls.doubleclick.net",
         "79423.analytics.edgekey.net",

@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "battle.net",
         "battlenet.com",
         "battlenet.com.cn",
@@ -46,8 +45,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.4.114.233/32",
         "103.4.115.248/32",
         "137.221.105.2/32",

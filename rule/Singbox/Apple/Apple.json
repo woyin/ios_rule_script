@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "apple-support.akadns.net",
         "apple.com.akadns.net",
         "apple.com.edgekey.net",
@@ -14,8 +13,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "139.178.128.0/18",
         "144.178.0.0/19",
         "144.178.36.0/22",

@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "eaasserts-a.akamaihd.net",
         "gog.salesmanago.com",
@@ -16,8 +15,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "100classicbooks.com",
         "ac-pocketcamp.com",
         "amiibo.com",
@@ -545,8 +543,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "epicgames",
         "steambroadcast",
         "steamstore",
@@ -554,8 +551,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.4.114.233/32",
         "103.4.115.248/32",
         "13.210.25.233/32",

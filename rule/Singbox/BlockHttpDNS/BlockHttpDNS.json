@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "dns.jd.com",
         "dns.weibo.cn",
@@ -25,16 +24,14 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "httpdns.baidu.com",
         "httpdns.baidubce.com",
         "httpsdns.baidu.com"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "101.124.19.122/32",
         "101.91.140.124/32",
         "101.91.140.224/32",

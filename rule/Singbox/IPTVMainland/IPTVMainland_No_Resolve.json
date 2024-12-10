@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "1-fss24-s0.streamhoster.com",
         "1.cache.applinzi.com",

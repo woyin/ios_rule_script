@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "aod-ssl.itunes.apple.com",
         "aod.itunes.apple.com",
@@ -13,8 +12,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "applemusic.com",
         "blobstore.apple.com",
         "music.apple.com"

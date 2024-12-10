@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "apd-pcdnwxlogin.teg.tencent-cloud.net",
         "btrace.qq.com",
@@ -15,8 +14,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "iot-tencent.com",
         "lbs.gtimg.com",
         "map.qq.com",

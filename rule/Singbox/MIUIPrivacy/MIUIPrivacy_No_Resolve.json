@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "a0.app.xiaomi.com",
         "api.installer.xiaomi.com",

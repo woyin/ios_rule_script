@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "clubhouse.pubnub.com",
         "clubhouseprod.s3.amazonaws.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "clubhouse.com",
         "clubhouseapi.com",
         "joinclubhouse.com"

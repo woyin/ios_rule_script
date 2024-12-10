@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "pa.google"
       ]
     }

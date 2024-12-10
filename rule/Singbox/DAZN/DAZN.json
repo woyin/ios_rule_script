@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "control.kochava.com",
         "d151l6v8er5bdm.cloudfront.net",
         "d1sgwhnao7452x.cloudfront.net",
@@ -24,8 +23,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "voddazn"
       ]
     }

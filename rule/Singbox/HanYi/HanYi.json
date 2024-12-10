@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "hellofontpreview.oss-cn-beijing.aliyuncs.com",
         "hellowebfonts.oss-cn-beijing.aliyuncs.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "fontstar.com.cn",
         "fontstudio.cn",
         "hanyi.com",

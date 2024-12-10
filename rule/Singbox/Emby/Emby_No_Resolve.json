@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "emby.enjoyit.eu.org",
         "emby.lcloud.wiki",
@@ -10,8 +9,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "123456.al",
         "285286.xyz",
         "agahk1.jmsooo.com",
@@ -60,8 +58,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "emby.wtf",
         "jmsooo",
         "odysseyplus"

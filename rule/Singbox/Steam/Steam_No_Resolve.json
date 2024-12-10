@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "steammobile.akamaized.net"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "cdn-ali.content.steamchina.com",
         "cdn-qc.content.steamchina.com",
         "cdn-ws.content.steamchina.com",
@@ -49,8 +47,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "steambroadcast",
         "steamstore",
         "steamuserimages"

@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "cdn-fox-networks-group-green.akamaized.net",
         "d3cv4a9a9wh0bt.cloudfront.net",
@@ -13,8 +12,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "foxplus.com"
       ]
     }

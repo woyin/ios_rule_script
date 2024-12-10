@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "00-gov.cn",
         "0024aadd.com",
@@ -23757,8 +23756,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "000dn.com",
         "001union.com",
         "0024aaaa.com",
@@ -37663,8 +37661,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "112wan",
         "789htbet",
         "a.9game.cn",
@@ -37855,8 +37852,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "1.3.0.10/32",
         "10.72.25.0/24",
         "101.124.19.122/32",

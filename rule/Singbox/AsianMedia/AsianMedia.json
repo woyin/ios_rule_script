@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "akmcdnoversea-tw.inter.iqiyi.com",
         "akmcdnoversea-tw.inter.ptqy.gitv.tv",
@@ -26,8 +25,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "api.mgtv.com",
         "iq.com",
         "wetv.vip",
@@ -35,14 +33,12 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "cn-hk-eq-bcache-"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.44.56.0/22",
         "116.211.202.206/32",
         "116.211.202.216/32",

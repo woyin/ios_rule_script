@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "analytics.",
         "app-analytics",
         "app-log.",
@@ -16,8 +15,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "0.0.0.1/32",
         "109.123.233.251/32",
         "157.148.47.204/32",

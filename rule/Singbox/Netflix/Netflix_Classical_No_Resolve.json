@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "e13252.dscg.akamaiedge.net",
         "h-netflix.online-metrix.net",
@@ -10,8 +9,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "cookielaw.org",
         "fast.com",
         "flxvpn.net",
@@ -45,8 +43,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "apiproxy-device-prod-nlb-",
         "dualstack.apiproxy-",
         "dualstack.ichnaea-web-",
@@ -54,8 +51,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.87.204.0/22",
         "107.23.255.0/26",
         "108.128.160.0/23",

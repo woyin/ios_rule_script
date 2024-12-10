@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "ggpht.cn",
         "ggpht.com",
         "googlevideo.com",
@@ -186,14 +185,12 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "youtube"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "172.110.32.0/21",
         "216.73.80.0/20",
         "2620:120:e000::/40"

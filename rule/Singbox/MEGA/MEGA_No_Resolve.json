@@ -2,16 +2,14 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "mega.co.nz",
         "mega.io",
         "mega.nz"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "185.206.24.0/22",
         "2a0b:e40:1::/48",
         "2a0b:e40:2::/47",

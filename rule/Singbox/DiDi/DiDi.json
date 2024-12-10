@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "apptaxi.com.cn",
         "cxyule.com",
         "didi-food.com",

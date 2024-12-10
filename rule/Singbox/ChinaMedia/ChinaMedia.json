@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "00713915daab0be43def5c338c02c80b.dlied1.cdntips.net",
         "0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com",
@@ -78,8 +77,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "0co3geye.cn",
         "1.letvlive.com",
         "2.letvlive.com",
@@ -319,15 +317,13 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "bilibili",
         "qiyi"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "101.224.0.0/13",
         "101.71.154.241/32",
         "103.126.92.132/31",

@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "assets1.xboxlive.cn",
         "assets2.xboxlive.cn",
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "pdl.wow.battlenet.com.cn"
       ]
     }

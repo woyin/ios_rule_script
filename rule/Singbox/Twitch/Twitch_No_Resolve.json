@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "ext-twitch.tv",
         "jtvnw.net",
         "live-video.net",
@@ -15,14 +14,12 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "ttvnw"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.53.48.0/23",
         "185.42.204.0/22",
         "192.108.239.0/24",

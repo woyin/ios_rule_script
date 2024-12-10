@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "api-glb-sea.smoot.apple.com",
         "apple.comscoreresearch.com",
@@ -34,8 +33,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "apple-dns.net",
         "apple.news",
         "apps.apple.com",

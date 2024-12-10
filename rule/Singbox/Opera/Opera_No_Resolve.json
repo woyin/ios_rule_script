@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "1npq4.tk",
         "coastbyopera.com",
         "gamingbrowsers.com",
@@ -21,8 +20,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "141.0.8.0/21",
         "185.26.180.0/22",
         "195.189.142.0/23",

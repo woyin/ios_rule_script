@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "atv-ps.amazon.com",
         "avodmp4s3ww-a.akamaihd.net",
@@ -16,8 +15,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "aiv-cdn.net",
         "aiv-delivery.net",
         "amazonvideo.com",
@@ -27,8 +25,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "avoddashs"
       ]
     }

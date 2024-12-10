@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "wetv.qq.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "iflix-images.akamaized.net",
         "iflix.com",
         "v.smtcdns.com",
@@ -20,8 +18,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "150.109.28.51/32"
       ]
     }

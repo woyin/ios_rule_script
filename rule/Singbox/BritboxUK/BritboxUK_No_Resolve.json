@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "itvpnp.live.ott.irdeto.com",
         "itvpnp.stage.ott.irdeto.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "bb-static.com",
         "bbc.co.uk",
         "britbox.co.uk",

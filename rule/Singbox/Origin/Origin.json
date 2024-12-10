@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "cloudsync-prod.s3.amazonaws.com",
         "eaasserts-a.akamaihd.net",
@@ -12,8 +11,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "ea.com",
         "origin.com"
       ]

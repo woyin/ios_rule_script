@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "fhnfile.oss-cn-shenzhen.aliyuncs.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "115.com",
         "115cdn.com",
         "115cdn.net",

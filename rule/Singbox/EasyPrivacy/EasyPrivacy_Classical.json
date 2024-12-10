@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "109.123.233.251",
         "185.193.38.148",
@@ -15,8 +14,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "0.net.easyjet.com",
         "00px.net",
         "07b3.pandasuite.io",

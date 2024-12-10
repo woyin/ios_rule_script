@@ -2,22 +2,19 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "i-joox.com",
         "joox.com",
         "sanook.com"
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "jooxweb-api"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "119.28.182.0/23",
         "203.205.234.0/23"
       ]

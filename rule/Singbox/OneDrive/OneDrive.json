@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "1drv.com",
         "livefilestore.com",
         "oneclient.sfx.ms",
@@ -19,8 +18,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "1drv",
         "onedrive",
         "skydrive"

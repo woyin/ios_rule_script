@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "112wan",
         "789htbet",
         "a.9game.cn",
@@ -194,8 +193,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "1.3.0.10/32",
         "10.72.25.0/24",
         "101.124.19.122/32",

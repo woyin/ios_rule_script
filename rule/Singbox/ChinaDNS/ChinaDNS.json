@@ -2,16 +2,14 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "dns.alidns.com",
         "doh.360.cn",
         "doh.pub"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "1.12.12.12/32"
       ]
     }

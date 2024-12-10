@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "d1v5ir2lpwr8os.cloudfront.net",
         "d22qjgkvxw22r6.cloudfront.net",
@@ -12,8 +11,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "aiv-cdn.net",
         "aiv-delivery.net",
         "amazonprimevideo.cn",
@@ -36,8 +34,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "avoddashs"
       ]
     }

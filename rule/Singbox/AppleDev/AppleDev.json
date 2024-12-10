@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "apple-cloudkit.com",
         "apple-mapkit.com",
         "apple.com.akadns.net",

@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "abematv.akamaized.net",
         "apiproxy-device-prod-nlb-",
         "avoddashs",
@@ -31,8 +30,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "1.201.0.0/24",
         "1.37.35.6/32",
         "101.100.179.242/32",

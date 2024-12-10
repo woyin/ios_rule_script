@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "1-fss24-s0.streamhoster.com",
         "14033.live.streamtheworld.com",
@@ -432,8 +431,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "0-6.com",
         "0.zone",
         "00.net",
@@ -97882,8 +97880,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         ".tmall.com",
         "alicdn",
         "alipay",

@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "uplaypc-s-ubisoft.cdn.ubi.com"
       ]

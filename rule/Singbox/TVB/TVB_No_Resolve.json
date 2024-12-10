@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "bcbolt446c5271-a.akamaihd.net",
         "edge.api.brightcove.com",
@@ -10,8 +9,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "bigbigchannel.com.hk",
         "bigbigshop.com",
         "content.jwplatform.com",

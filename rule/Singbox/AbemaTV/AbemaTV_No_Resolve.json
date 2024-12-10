@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "abema-tv.com",
         "abema.io",
         "abema.tv",
@@ -29,8 +28,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "abematv.akamaized.net"
       ]
     }

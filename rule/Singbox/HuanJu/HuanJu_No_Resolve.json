@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "5253.com",
         "blogchina.org",
         "c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net",

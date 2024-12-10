@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "1-fss24-s0.streamhoster.com",
         "1.cache.applinzi.com",
@@ -997,8 +996,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "0.0.0.0/32",
         "1.180.237.9/32",
         "1.197.88.197/32",

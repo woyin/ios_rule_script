@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "1010-0000.com",
         "18ebank.com",
         "1qianbao.cn",

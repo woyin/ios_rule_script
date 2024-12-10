@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "1700.cn",
         "17roco.com",
         "700chat.com",
@@ -481,8 +480,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "101.32.104.4/32",
         "101.32.104.41/32",
         "101.32.104.56/32",

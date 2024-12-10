@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "aboutfacebook.com",
         "accessfacebookfromschool.com",
         "accountkit.com",
@@ -551,15 +550,13 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "facebook",
         "fbcdn"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "108.168.176.192/26",
         "108.168.177.0/27",
         "108.168.180.96/27",

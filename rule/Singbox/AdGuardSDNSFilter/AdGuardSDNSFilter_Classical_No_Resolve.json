@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "167.71.252.38",
         "213.8.137.51"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "0.code.cotsta.ru",
         "0008d6ba2e.com",
         "0024ad98dd.com",

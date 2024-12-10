@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "appldnld-cdn.apple.com.akadns.net",
         "appldnld-cdn.origin-apple.com.akadns.net",
@@ -72,8 +71,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "appldnld-lb.apple.com.akadns.net",
         "appldnld.apple.com",
         "appldnld.apple.com.akadns.net",

@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "100classicbooks.com",
         "ac-pocketcamp.com",
         "amiibo.com",
@@ -133,8 +132,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "35.192.0.0/12"
       ]
     }

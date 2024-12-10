@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "apple.imap.mail.yahoo.com",
         "apple.smtp.mail.yahoo.com",
@@ -16,8 +15,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "imap.yandex.com",
         "m.hotmail.com",
         "smtp.yandex.com"

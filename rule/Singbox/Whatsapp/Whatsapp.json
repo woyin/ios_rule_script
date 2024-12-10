@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "graph.facebook.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "bintray.com",
         "whatsapp.biz",
         "whatsapp.com",
@@ -17,14 +15,12 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "whatsapp"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "158.85.224.160/27",
         "158.85.46.128/27",
         "158.85.5.192/27",

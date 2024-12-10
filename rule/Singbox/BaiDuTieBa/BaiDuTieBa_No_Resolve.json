@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "als.baidu.com",
         "cdn.hiphotos.baidu.com",
@@ -38,8 +37,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "tieba.baidu.com"
       ]
     }

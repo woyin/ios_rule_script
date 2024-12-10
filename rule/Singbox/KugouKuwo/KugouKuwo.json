@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "2496.cn",
         "gouwo.com",
         "kgimg.com",
@@ -26,8 +25,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "1.82.220.0/24",
         "101.71.122.0/24",
         "103.215.143.0/24",

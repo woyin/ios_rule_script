@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "lf3-static.bytednsdoc.com",
         "v5-dy-o-abtest.zjcdn.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "amemv.com",
         "douyincdn.com",
         "douyinpic.com",

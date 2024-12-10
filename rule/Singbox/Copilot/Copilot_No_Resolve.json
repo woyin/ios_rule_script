@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "api.msn.com",
         "api.statsig.com",
@@ -27,8 +26,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "algolia.net",
         "api.microsoftapp.net",
         "auth0.com",
@@ -58,14 +56,12 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "openaicom-api"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "24.199.123.28/32",
         "64.23.132.171/32"
       ]

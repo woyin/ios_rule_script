@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "ad.10010.com",
         "ad.12306.cn",
@@ -63,8 +62,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "52pt.site",
         "acg.rip",
         "acm.org",
@@ -197,8 +195,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "anti-ad.net",
         "api-adservices.apple.com",
         "api.smoot.apple.cn",

@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "brainplusplus.com.cn",
         "brainpp.cn",
         "datafun.vip",
@@ -30,8 +29,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "114.98.177.194/31",
         "114.98.177.196/32"
       ]

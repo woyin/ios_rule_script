@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "cc-ext-prod-pkgs.s3.amazonaws.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "10xfotolia.com",
         "2o7.net",
         "acrobat.com",
@@ -148,8 +146,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "adobe"
       ]
     }

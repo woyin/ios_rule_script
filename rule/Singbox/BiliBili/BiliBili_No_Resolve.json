@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com",
         "0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com",
@@ -60,8 +59,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "acg.tv",
         "acgvideo.com",
         "animetamashi.cn",
@@ -127,8 +125,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "106.75.74.76/32",
         "111.206.25.147/32",
         "119.3.238.64/32",

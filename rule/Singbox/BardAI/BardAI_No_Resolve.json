@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "ai.google.dev",
         "alkalimakersuite-pa.clients6.google.com",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "bard.google.com",
         "deepmind.com",
         "deepmind.google",

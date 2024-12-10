@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "fast.com",
         "ooklaserver.net",
         "speed.cloudflare.com",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "speedtest"
       ]
     }

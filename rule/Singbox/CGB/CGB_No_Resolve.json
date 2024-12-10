@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "95508.com",
         "cgbchina.cn",
         "cgbchina.com.cn",

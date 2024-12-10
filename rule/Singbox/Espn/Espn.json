@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "espn.api.edge.bamgrid.com",
         "espn.hb.omtrdc.net",
@@ -10,8 +9,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "dtci.co",
         "dtci.technology",
         "espn.co.uk",

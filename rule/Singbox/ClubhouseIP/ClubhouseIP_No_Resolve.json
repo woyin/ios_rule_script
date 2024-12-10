@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "ap-oversea-tls.agora.io",
         "ap-oversea.agora.io",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.59.49.10/32",
         "103.65.41.166/32",
         "103.65.41.169/32",

@@ -2,15 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "last.us11.list-manage.com",
         "lastfm-img2.akamaized.net"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "audioscrobbler.com",
         "bbfc1.tk",
         "bc9oa.tk",

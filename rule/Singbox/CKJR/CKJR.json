@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "51ckjr.com",
         "ckjr001.cn",
         "ckjr001.com",

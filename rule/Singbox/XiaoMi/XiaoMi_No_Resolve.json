@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "408399.com",
         "408399.net",
         "816798.net",
@@ -142,8 +141,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "110.43.63.242/32",
         "120.133.33.222/32",
         "47.241.176.221/32",

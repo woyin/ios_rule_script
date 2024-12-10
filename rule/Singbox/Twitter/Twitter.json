@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "ads-twitter.com",
         "cms-twdigitalassets.com",
         "periscope.tv",
@@ -32,14 +31,12 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "twitter"
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "192.133.76.0/22",
         "199.59.148.0/22",
         "199.96.56.0/21",

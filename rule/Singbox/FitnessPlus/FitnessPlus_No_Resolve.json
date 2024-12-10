@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "amp-api.fitness.apple.com",
         "hls-svod.itunes.apple.com"

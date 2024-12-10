@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "0123456789nonexistent.com",
         "0d.kebhana.mx",
@@ -155,8 +154,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "1ptba.com",
         "2xfree.org",
         "52pt.site",
@@ -283,8 +281,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "announce",
         "chdbits",
         "m-team",
@@ -292,8 +289,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "207.241.226.111/32",
         "207.241.231.226/32",
         "52.58.128.163/32"

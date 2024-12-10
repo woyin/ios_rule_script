@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "10086.cn",
         "10086kuaixiu.com",
         "117.161.2.5",

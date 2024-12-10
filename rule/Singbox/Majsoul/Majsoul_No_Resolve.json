@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "game.maj-soul.com",
         "gateway-cdn.maj-soul.com",
         "gateway-hw.maj-soul.com",

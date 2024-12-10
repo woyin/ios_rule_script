@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "geo2.adobe.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "17gouwuba.com",
         "186078.com",
         "189key.com",
@@ -198,8 +196,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "103.49.209.27/32",
         "106.75.231.48/32",
         "111.175.220.163/32",

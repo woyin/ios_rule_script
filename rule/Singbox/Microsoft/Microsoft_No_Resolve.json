@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "vsmarketplacebadge.apphb.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "1drv.com",
         "1drv.ms",
         "21vbc.com",
@@ -675,8 +673,7 @@
       ]
     },
     {
-      "type": "domain_keyword",
-      "domain": [
+      "domain_keyword": [
         "1drv",
         "microsoft",
         "onedrive",

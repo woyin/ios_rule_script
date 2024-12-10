@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "xn--d1acpjx3f.xn--p1ai",
         "ya.ru",
         "yadi.sk",
@@ -41,8 +40,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "100.43.64.0/19",
         "141.8.128.0/18",
         "178.154.128.0/18",

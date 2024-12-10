@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "2333333333333.com",
         "365yg.com",
         "activity-zhendingtech.com",
@@ -335,8 +334,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "114.246.10.65/32"
       ]
     }

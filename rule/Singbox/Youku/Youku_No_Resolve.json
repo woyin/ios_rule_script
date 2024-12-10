@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "0co3geye.cn",
         "2isbbess.cn",
         "33lwhaoinc.cn",
@@ -41,8 +40,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "106.11.0.0/16"
       ]
     }

@@ -2,14 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "cache.video.iqiyi.com"
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "inter.iqiyi.com",
         "intl-rcd.iqiyi.com",
         "intl-subscription.iqiyi.com",
@@ -18,8 +16,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "104.85.165.17/32",
         "110.238.107.47/32",
         "118.26.32.162/32",

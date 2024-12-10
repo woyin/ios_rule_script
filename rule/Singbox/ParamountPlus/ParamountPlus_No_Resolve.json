@@ -2,7 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain",
       "domain": [
         "cbsi.live.ott.irdeto.com",
         "cbsplaylistserver.aws.syncbak.com",
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "cbsaavideo.com",
         "cbsi.com",
         "cbsivideo.com",

@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "daum.net",
         "daumcdn.net",
         "daumkakao.io",
@@ -16,8 +15,7 @@
       ]
     },
     {
-      "type": "ip_cidr",
-      "ip": [
+      "ip_cidr": [
         "1.201.0.0/24",
         "103.246.56.0/22",
         "103.27.148.0/22",

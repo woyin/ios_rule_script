@@ -2,8 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "type": "domain_suffix",
-      "domain": [
+      "domain_suffix": [
         "d1f1eryiqyjs0r.cloudfront.net",
         "d3lar09xbwlsge.cloudfront.net",
         "d3q1qj9jzsu8nw.cloudfront.net",
