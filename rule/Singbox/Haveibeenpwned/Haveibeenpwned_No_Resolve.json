@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "haveibeenpwned.com",
+        "pwnedpasswords.com"
+      ]
+    }
+  ]
+}

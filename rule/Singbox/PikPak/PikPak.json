@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "dlandroid.rcv.sandai.net",
+        "hub5idx.v6.shub.sandai.net",
+        "hub5pn.wap.sandai.net",
+        "hub5pnc.sandai.net",
+        "hub5pr.v6.phub.sandai.net",
+        "hubciddata.sandai.net"
+      ]
+    },
+    {
+      "type": "domain_keyword",
+      "domain": [
+        "mypikpak"
+      ]
+    }
+  ]
+}

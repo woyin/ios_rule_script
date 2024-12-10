@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "rbxcdn.com"
+      ]
+    },
+    {
+      "type": "domain_keyword",
+      "domain": [
+        "roblox"
+      ]
+    }
+  ]
+}

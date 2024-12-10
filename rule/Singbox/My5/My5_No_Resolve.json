@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain",
+      "domain": [
+        "d349g9zuie06uo.cloudfront.net"
+      ]
+    },
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "channel5.com",
+        "my5.tv"
+      ]
+    }
+  ]
+}

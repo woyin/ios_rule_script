@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_keyword",
+      "domain": [
+        ".tmall.com",
+        "alicdn",
+        "alipay",
+        "aliyun",
+        "baidu",
+        "beplay",
+        "bilibili",
+        "hnagroup",
+        "officecdn",
+        "qiyi",
+        "stripe",
+        "taobao",
+        "weibo"
+      ]
+    }
+  ]
+}

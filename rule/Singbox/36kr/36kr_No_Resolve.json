@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "36dianping.com",
+        "36kr.com",
+        "36krcdn.com",
+        "36krcnd.com"
+      ]
+    }
+  ]
+}

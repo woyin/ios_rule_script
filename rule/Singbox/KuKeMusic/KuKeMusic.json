@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "kuke.com",
+        "kukey.com.cn",
+        "naxos.cn"
+      ]
+    }
+  ]
+}

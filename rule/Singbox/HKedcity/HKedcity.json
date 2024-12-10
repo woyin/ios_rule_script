@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "edcity.hk",
+        "hkedcity.net",
+        "hkreadingcity.net"
+      ]
+    }
+  ]
+}

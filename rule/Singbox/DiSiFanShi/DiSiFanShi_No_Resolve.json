@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "4paradigm.com",
+        "aihero100.com",
+        "tuijianxitong.cn",
+        "v1zhushou.com"
+      ]
+    }
+  ]
+}

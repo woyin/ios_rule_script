@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain",
+      "domain": [
+        "music.youtube.com"
+      ]
+    }
+  ]
+}

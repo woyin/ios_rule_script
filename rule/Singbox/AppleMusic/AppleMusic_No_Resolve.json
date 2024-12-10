@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain",
+      "domain": [
+        "aod-ssl.itunes.apple.com",
+        "aod.itunes.apple.com",
+        "audio-ssl.itunes.apple.com",
+        "audio.itunes.apple.com",
+        "mvod.itunes.apple.com",
+        "streamingaudio.itunes.apple.com"
+      ]
+    },
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "applemusic.com",
+        "blobstore.apple.com",
+        "music.apple.com"
+      ]
+    }
+  ]
+}

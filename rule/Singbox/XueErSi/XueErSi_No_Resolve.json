@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "speiyou.com",
+        "xesimg.com",
+        "xueersi.com"
+      ]
+    }
+  ]
+}

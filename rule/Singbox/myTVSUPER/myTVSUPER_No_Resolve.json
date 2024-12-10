@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain",
+      "domain": [
+        "mytvsuperlimited.hb.omtrdc.net",
+        "mytvsuperlimited.sc.omtrdc.net"
+      ]
+    },
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "mytvsuper.com",
+        "tvb.com"
+      ]
+    },
+    {
+      "type": "domain_keyword",
+      "domain": [
+        "nowtv100",
+        "rthklive"
+      ]
+    }
+  ]
+}

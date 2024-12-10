@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "anticheatexpert.com",
+        "centauriglobal.com",
+        "gamepass.com",
+        "iegcom.com",
+        "intlgame.com",
+        "nikke-kr.com"
+      ]
+    },
+    {
+      "type": "ip_cidr",
+      "ip": [
+        "43.152.114.31/32"
+      ]
+    }
+  ]
+}

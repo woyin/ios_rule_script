@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain",
+      "domain": [
+        "hls-hichannel.cdn.hinet.net"
+      ]
+    },
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "hamivideo.hinet.net",
+        "ott.hinet.net"
+      ]
+    },
+    {
+      "type": "domain_keyword",
+      "domain": [
+        "hamivideo.cdn.hinet.net"
+      ]
+    }
+  ]
+}

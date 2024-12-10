@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "onixhiend.com",
+        "shanling.com"
+      ]
+    }
+  ]
+}

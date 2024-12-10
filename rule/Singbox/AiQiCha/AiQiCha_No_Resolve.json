@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "type": "domain_suffix",
+      "domain": [
+        "aiqicha.baidu.com"
+      ]
+    }
+  ]
+}
