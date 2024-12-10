@@ -39,22 +39,26 @@ def convert_clash_to_singbox(clash_rules: List[str]) -> Dict[str, Any]:
         if not values:
             continue
             
-        if rule_type in ['domain', 'domain_suffix', 'domain_keyword']:
+        if rule_type == 'domain':
             rules.append({
-                "type": rule_type,
                 "domain": sorted(values)
+            })
+        elif rule_type == 'domain_suffix':
+            rules.append({
+                "domain_suffix": sorted(values)
+            })
+        elif rule_type == 'domain_keyword':
+            rules.append({
+                "domain_keyword": sorted(values)
             })
         elif rule_type == 'ip_cidr':
             rules.append({
-                "type": "ip_cidr",
-                "ip": sorted(values)
+                "ip_cidr": sorted(values)
             })
         elif rule_type == 'geoip':
-            for code in sorted(values):
-                rules.append({
-                    "type": "geoip",
-                    "code": code
-                })
+            rules.append({
+                "geoip": sorted(values)
+            })
 
     # 从环境变量获取 version，如果没有设置则使用默认值 2
     version = int(os.getenv('RULESET_VERSION', '2'))
