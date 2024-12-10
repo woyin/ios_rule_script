@@ -32,12 +32,29 @@ def merge_rules(clash_rules: List[str]) -> Dict[str, List[str]]:
 def convert_clash_to_singbox(clash_rules: List[str]) -> Dict[str, Any]:
     """Convert Clash configuration to sing-box configuration."""
     merged_rules = merge_rules(clash_rules)
-    rules = {}
+    rules = []
     
-    # 将每种类型的规则添加到相应的类别中
+    # 转换每种类型的规则
     for rule_type, values in merged_rules.items():
-        if values:
-            rules[rule_type] = sorted(values)  # 对值进行排序以保持一致性
+        if not values:
+            continue
+            
+        if rule_type in ['domain', 'domain_suffix', 'domain_keyword']:
+            rules.append({
+                "type": rule_type,
+                "domain": sorted(values)
+            })
+        elif rule_type == 'ip_cidr':
+            rules.append({
+                "type": "ip_cidr",
+                "ip": sorted(values)
+            })
+        elif rule_type == 'geoip':
+            for code in sorted(values):
+                rules.append({
+                    "type": "geoip",
+                    "code": code
+                })
 
     # 从环境变量获取 version，如果没有设置则使用默认值 2
     version = int(os.getenv('RULESET_VERSION', '2'))
