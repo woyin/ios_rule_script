@@ -2,11 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "wmff.warnermediacdn.com"
-      ]
-    },
-    {
       "domain_suffix": [
         "bcbolthboa-a.akamaihd.net",
         "cf-images.ap-southeast-1.prod.boltdns.net",
@@ -44,6 +39,7 @@
         "hbonow.com",
         "hbounify-prod.evergent.com",
         "manifest.prod.boltdns.net",
+        "max.com",
         "maxgo.com",
         "now-ashare.com",
         "now-tv.com",
@@ -52,6 +48,7 @@
         "nowe.com",
         "nowe.hk",
         "players.brightcove.net",
+        "warnermediacdn.com",
         "youboranqs01.com"
       ]
     }
